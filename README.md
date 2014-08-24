@@ -1,8 +1,8 @@
 ProgrammingAssignment2
 ======================
 getData example getData()
-getmatrixRow example  getmatrixRow
-getmatrixCol example  getmatrixCol
+getmatrixRow example  getmatrixRow()
+getmatrixCol example  getmatrixCol()
 
 create matrix:
 m<-makeCacheMatrix()
